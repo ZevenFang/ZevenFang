@@ -1,4 +1,8 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ZevenFang&show_icons=true&include_all_commits=true">
+
+### Hi there, I'm Zeven. 👋
+
+👨‍💻 **Languages:** Java, JavaScript, Python, PHP, HTML, CSS.
 
 <!--
 **ZevenFang/ZevenFang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
